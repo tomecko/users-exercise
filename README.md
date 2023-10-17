@@ -4,6 +4,8 @@ Demo: [https://tomecko.github.io/users-exercise](https://tomecko.github.io/users
 
 Tech stack: React, React Query, Tailwind, Jest, Cypress, TypeScript
 
+State is persisted in local storage.
+
 # Bootstrapped with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
